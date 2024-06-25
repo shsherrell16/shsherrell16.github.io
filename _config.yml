@@ -19,15 +19,15 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 꼭사요 # the main title
+title: 뽐뿌는 사랑입니다 # the main title
 
-tagline: 놓치면없어짐, 지금사, 나중엔없어, 최저가 # it will display as the sub-title
+tagline: 지금구매, 바로사요, 지금클릭 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  쇼핑, 핫아이템, SNS유명한, 할인정보
+  쇼핑, 핫아이템, 가격정보
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url:  "https://munn20rod.github.io"
+url:  "https://fidel-swank66.github.io"
 
 github:
   username:  # change to your github username
@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sabritas_smiley_face.svg/220px-Sabritas_smiley_face.svg.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
