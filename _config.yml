@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AEnvelope-letter-icon.png&psig=AOvVaw1eAJ4w2aEF09ZCr3kkxNRx&ust=1719494550736000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjZmsWu-YYDFQAAAAAdAAAAABAE"
+avatar: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Envelope-letter-icon.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
