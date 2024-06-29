@@ -19,7 +19,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 지금삽니다 # the main title
+title: 넌내꺼 사줘 # the main title
 
 tagline: 지금구매, 바로사자 # it will display as the sub-title
 
@@ -27,7 +27,7 @@ description: >- # used by seo meta and the atom feed
   쇼핑, 핫아이템, 가격정보
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url:  "https://grissomlchanda7.github.io"
+url:  "https://ranewkirk886.github.io"
 
 github:
   username:  # change to your github username
@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Envelope-letter-icon.png"
+avatar: "https://en.wiktionary.org/wiki/cat#/media/File:Cat03.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
