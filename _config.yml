@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://en.wikipedia.org/wiki/Pusheen#/media/File:Pusheen_the_Cat.png"
+avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bob%27s_big_boy_statue_burbank_2013.jpg/250px-Bob%27s_big_boy_statue_burbank_2013.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
